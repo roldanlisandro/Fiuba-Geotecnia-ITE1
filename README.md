@@ -1,4 +1,11 @@
 # INTERACCIÓN TERRENO-ESTRUCTURA I
-UNIVERSIDAD DE BUENOS AIRES - FACULTAD DE INGENIERÍA
-ESPECIALIZACIÓN EN INGENIERÍA GEOTÉCNICA
+Universidad de Buenos Aires - Facultad de Ingeniería
+Departamento de Estabilidad
+Especialización en Ingeniería Geotécnica
+
+## Docentes
+
+* Juan Mussat - jmussat@fi.uba.ar
+* Pedro Fernandez - pfernandez@fi.uba.ar
+* Lisandro Roldan - liroldan@fi.uba.ar
 
