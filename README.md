@@ -1,7 +1,5 @@
 # INTERACCIÓN TERRENO-ESTRUCTURA I
-Universidad de Buenos Aires - Facultad de Ingeniería
-
-Departamento de Estabilidad
+Universidad de Buenos Aires - Facultad de Ingeniería - Departamento de Estabilidad
 
 Especialización en Ingeniería Geotécnica
 
