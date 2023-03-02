@@ -27,7 +27,7 @@ Especialización en Ingeniería Geotécnica
 
 ## Apuntes
 
-1. [Presentación del curso](https://google.com)
+1. [Presentación del curso](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1000%20Presentaci%C3%B3n%20curso.pdf)
 2. [Sistema Terreno-Estructura](https://google.com)
 3. [Introducción a Python](https://google.com)
 
