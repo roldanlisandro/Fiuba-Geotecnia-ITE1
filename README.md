@@ -11,15 +11,19 @@ Especialización en Ingeniería Geotécnica
 
 ## Links de interes
 
-[Cronograma 2023 - C1](https://docs.google.com/spreadsheets/d/1rhYaUCbZ4z_ov3hhh-SxToC-97Gt-GrMrg4mnnPtKXU/edit?usp=sharing)
+* [Cronograma 2023 - C1](https://docs.google.com/spreadsheets/d/1rhYaUCbZ4z_ov3hhh-SxToC-97Gt-GrMrg4mnnPtKXU/edit?usp=sharing)
 
-[Web de la carrera](https://campus.fi.uba.ar/course/view.php?id=3350)
+* [Web de la carrera](https://campus.fi.uba.ar/course/view.php?id=3350)
 
-[Programa anaítico de la materia](https://campus.fi.uba.ar/pluginfile.php/494028/mod_resource/content/1/Interacci%C3%B3n%20Terreno%20-%20Estructura%20I.pdf)
+* [Programa anaítico de la materia](https://campus.fi.uba.ar/pluginfile.php/494028/mod_resource/content/1/Interacci%C3%B3n%20Terreno%20-%20Estructura%20I.pdf)
 
-[Bibliografía](https://drive.google.com/drive/folders/1G-GwdJjAClMhnhLl3PN4o1ekad4BwOSd?usp=sharing)
+* [Entrega de TPs](https://forms.gle/N7VfRzV8p7VzLSNm8)
 
-[Entrega de TPs](https://forms.gle/N7VfRzV8p7VzLSNm8)
+* [Bibliografía](https://drive.google.com/drive/folders/1G-GwdJjAClMhnhLl3PN4o1ekad4BwOSd?usp=sharing)
+
+* [Repaso de mecánica de suelos](https://www.youtube.com/playlist?list=PLQX7AAuxwaHb3Mzc5YDTNqYvbgGUQq3yB)
+
+* [Clases grabadas](https://www.youtube.com/playlist?list=PLQX7AAuxwaHa4hMKon7u5L6pT0TtMO3IL)
 
 ## Apuntes
 
@@ -27,7 +31,7 @@ Especialización en Ingeniería Geotécnica
 2. [Sistema Terreno-Estructura](https://google.com)
 3. [Introducción a Python](https://google.com)
 
-# Auxiliares
+## Auxiliares
 
 ## Trabajos Practicos
 
