@@ -17,4 +17,4 @@ Especialización en Ingeniería Geotécnica
 
 [Programa anaítico de la materia](https://campus.fi.uba.ar/pluginfile.php/494028/mod_resource/content/1/Interacci%C3%B3n%20Terreno%20-%20Estructura%20I.pdf)
 
-[Entrega de TPs](https://www.google.com.ar/)
+[Entrega de TPs](https://forms.gle/N7VfRzV8p7VzLSNm8)
