@@ -38,8 +38,8 @@ Especialización en Ingeniería Geotécnica
 1. [TP1 - Introducción a Python](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP1%20-%20Intro%20a%20Python.ipynb)
 
 ## Auxiliares
-
-1. [Ejercicios Python](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Ejercicios%20Python.ipynb)
+1. [Introducción a Python (colab)](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Introduccion_a_Python.ipynb)
+2. [Ejercicios Python](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Ejercicios%20Python.ipynb)
 
 
 
