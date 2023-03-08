@@ -31,6 +31,7 @@ Especialización en Ingeniería Geotécnica
 
 1. [Presentación del curso](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1000%20Presentaci%C3%B3n%20curso.pdf)
 2. [Sistema Terreno-Estructura](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1001%20Sistema%20Terreno-Estructura.pdf)
+2. [Introducción a Python](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1002%20Introducci%C3%B3n%20a%20Python.pdf)
 
 ## Trabajos Practicos
 
