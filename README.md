@@ -27,6 +27,8 @@ Especialización en Ingeniería Geotécnica
 
 ## Apuntes
 
+### Unidad 1: Introducción
+
 1. [Presentación del curso](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1000%20Presentaci%C3%B3n%20curso.pdf)
 2. [Sistema Terreno-Estructura](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1001%20Sistema%20Terreno-Estructura.pdf)
 
