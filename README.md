@@ -11,6 +11,8 @@ Especialización en Ingeniería Geotécnica
 
 ## Links de interes
 
+* [Meet (Lunes 18-21hs)](https://meet.google.com/awb-ytqe-oqe)
+
 * [Cronograma 2023 - C1](https://docs.google.com/spreadsheets/d/1rhYaUCbZ4z_ov3hhh-SxToC-97Gt-GrMrg4mnnPtKXU/edit?usp=sharing)
 
 * [Web de la carrera](https://campus.fi.uba.ar/course/view.php?id=3350)
