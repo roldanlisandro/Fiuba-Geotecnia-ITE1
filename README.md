@@ -39,7 +39,7 @@ Especialización en Ingeniería Geotécnica
 2. [Sistema Terreno-Estructura](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1001%20Sistema%20Terreno-Estructura.pdf)
 3. [Introducción a Python](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1002%20Introducci%C3%B3n%20a%20Python.pdf)
 4. [Repaso de mecánica de suelos](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1104%20Repaso%20mecanica%20de%20suelos.pdf)
-5. [Incertidumbre en problemas de ITE ](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1103%20La%20incertidumbre%20en%20los%20problemas%20de%20interaccion.pdf)
+5. [Incertidumbre en problemas de ITE](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1103%20La%20incertidumbre%20en%20los%20problemas%20de%20interaccion.pdf)
 
 ## Trabajos Practicos
 
