@@ -41,6 +41,11 @@ Especialización en Ingeniería Geotécnica
 4. [Repaso de mecánica de suelos](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1104%20Repaso%20mecanica%20de%20suelos.pdf)
 5. [Incertidumbre en problemas de ITE](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1103%20La%20incertidumbre%20en%20los%20problemas%20de%20interaccion.pdf)
 
+### Unidad 2: Fundaciones profundas
+1. [Introducción](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1201%20Fundaciones%20profundas%20-%20Introducci%C3%B3n.pdf)
+2. [Métodos de instalación](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1202%20Fundaciones%20profundas%20-%20Metodos%20de%20instalacion.pdf)
+3. [Estado límite último](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1203%20Fundaciones%20profundas%20-%20ELU.pdf)
+
 ## Trabajos Practicos
 
 1. [TP1 - Introducción a Python](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP1%20-%20Intro%20a%20Python.ipynb)
