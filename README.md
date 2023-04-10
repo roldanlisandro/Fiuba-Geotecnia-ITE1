@@ -6,7 +6,7 @@ Especialización en Ingeniería Geotécnica
 ## Docentes
 
 * Juan Mussat - jmussat@fi.uba.ar
-* Pedro Fernandez - pfernandez@fi.uba.ar
+* Pedro Fernandez - pmfernandez@fi.uba.ar
 * Lisandro Roldan - liroldan@fi.uba.ar
 
 ## Links de interes
