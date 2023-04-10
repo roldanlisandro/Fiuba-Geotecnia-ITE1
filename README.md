@@ -46,6 +46,7 @@ Especialización en Ingeniería Geotécnica
 2. [Métodos de instalación](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1202%20Fundaciones%20profundas%20-%20Metodos%20de%20instalacion.pdf)
 3. [Estado límite último](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1203%20Fundaciones%20profundas%20-%20ELU.pdf)
 4. [Estado límite de servicio](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1204%20Fundaciones%20profundas%20-%20SLS.pdf)
+5. [Aspectos de diseño](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1207%20Fundaciones%20profundas%20-%20Aspectos%20de%20dise%C3%B1o.pdf)
 
 ## Trabajos Practicos
 
