@@ -47,10 +47,10 @@ Especialización en Ingeniería Geotécnica
 3. [Estado límite último](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1203%20Fundaciones%20profundas%20-%20ELU.pdf)
 4. [Estado límite de servicio](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1204%20Fundaciones%20profundas%20-%20SLS.pdf)
 5. [Aspectos de diseño](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1207%20Fundaciones%20profundas%20-%20Aspectos%20de%20dise%C3%B1o.pdf)
-6. [Análisis dinámico - ELU](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1207%20Fundaciones%20profundas%20-%20Aspectos%20de%20dise%C3%B1o.pdf)
-7. [Análisis dinámico - HD](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1207%20Fundaciones%20profundas%20-%20Aspectos%20de%20dise%C3%B1o.pdf)
-8. [Análisis dinámico - PDA](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1207%20Fundaciones%20profundas%20-%20Aspectos%20de%20dise%C3%B1o.pdf)
-9. [Análisis dinámico - MEF](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1207%20Fundaciones%20profundas%20-%20Aspectos%20de%20dise%C3%B1o.pdf)
+6. [Análisis dinámico - ELU](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1208%20Analisis%20dinamico%20pilotes%20-%20ELU.pdf)
+7. [Análisis dinámico - HD](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1209%20Analisis%20dinamico%20pilotes%20-%20HD.pdf)
+8. [Análisis dinámico - PDA](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1210%20Analisis%20dinamico%20pilotes%20-%20PDA.pdf)
+9. [Análisis dinámico - MEF](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1211%20Analisis%20dinamico%20pilotes%20-%20MEF.pdf)
 
 ## Trabajos Practicos
 
