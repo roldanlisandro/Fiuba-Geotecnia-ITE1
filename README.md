@@ -56,6 +56,7 @@ Especialización en Ingeniería Geotécnica
 
 1. [TP1 - Introducción a Python](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP1%20-%20Intro%20a%20Python.ipynb)
 2. [TP2 - Capacidad de carga en pilotes](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP2%20-%20Capacidad%20de%20carga%20en%20pilotes.ipynb)
+3. [TP3 - Estado de servicio en pilotes](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP3%20-%20SLS%20-%20Pilotes.ipynb)
 
 ## Auxiliares
 1. [Introducción a Python (colab)](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Introduccion_a_Python.ipynb)
