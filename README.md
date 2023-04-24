@@ -51,6 +51,9 @@ Especialización en Ingeniería Geotécnica
 7. [Análisis dinámico - HD](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1209%20Analisis%20dinamico%20pilotes%20-%20HD.pdf)
 8. [Análisis dinámico - PDA](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1210%20Analisis%20dinamico%20pilotes%20-%20PDA.pdf)
 9. [Análisis dinámico - MEF](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1211%20Analisis%20dinamico%20pilotes%20-%20MEF.pdf)
+10. [Comportamiento lateral - Resistencia](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1212%20Comportamiento%20lateral%20de%20pilotes%20-%20Resistencia%20ultima.pdf)
+11. [Comportamiento lateral - Deformaciones](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1213%20Comportamiento%20lateral%20de%20pilotes%20-%20Deformaciones.pdf)
+12. [Comportamiento lateral - Grupo y Torsión](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1214%20Comportamiento%20lateral%20de%20pilotes%20-%20Grupo%20y%20Torsion.pdf)
 
 ## Trabajos Practicos
 
