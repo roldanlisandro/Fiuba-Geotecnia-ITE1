@@ -55,6 +55,11 @@ Especialización en Ingeniería Geotécnica
 11. [Comportamiento lateral - Deformaciones](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1213%20Comportamiento%20lateral%20de%20pilotes%20-%20Deformaciones.pdf)
 12. [Comportamiento lateral - Grupo y Torsión](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1214%20Comportamiento%20lateral%20de%20pilotes%20-%20Grupo%20y%20Torsion.pdf)
 
+### Unidad 3: Fundaciones superficiales
+1. [Índice y bibliografía](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1300%20Fundaciones%20superficiales.pdf)
+2. [Introducción](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1301%20Fundaciones%20superficiales%20-%20Introduccion.pdf)
+3. [Estado límite último](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1302%20Fundaciones%20superficiles%20-%20ULS.pdf)
+
 ## Trabajos Practicos
 
 1. [TP1 - Introducción a Python](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP1%20-%20Intro%20a%20Python.ipynb)
