@@ -59,6 +59,7 @@ Especialización en Ingeniería Geotécnica
 1. [Índice y bibliografía](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1300%20Fundaciones%20superficiales.pdf)
 2. [Introducción](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1301%20Fundaciones%20superficiales%20-%20Introduccion.pdf)
 3. [Estado límite último](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1302%20Fundaciones%20superficiales%20-%20ULS.pdf)
+4. [Estado límite de servicio](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1302%20Fundaciones%20superficiales%20-%20SLS.pdf)
 
 ## Trabajos Practicos
 
