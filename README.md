@@ -60,6 +60,12 @@ Especialización en Ingeniería Geotécnica
 2. [Introducción](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1301%20Fundaciones%20superficiales%20-%20Introduccion.pdf)
 3. [Estado límite último](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1302%20Fundaciones%20superficiales%20-%20ULS.pdf)
 4. [Estado límite de servicio](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1303%20Fundaciones%20superficiales%20-%20SLS.pdf)
+5. [Consideraciones para el diseño estructural](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1304%20Fundaciones%20superficiales%20-%20Consideraciones%20para%20el%20diseno%20estructural.pdf)
+6. [Fundaciones apoyadas en pilotes](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1305%20Fundaciones%20superficiales%20-%20Fundaciones%20apoyadas%20en%20pilotes.pdf)
+
+### Unidad 4: Excavaciones
+1. [Índice y bibliografía](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1400%20Excavaciones.pdf)
+2. [Introducción](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1401%20Excavaciones-%20Introduccion.pdf)
 
 ## Trabajos Practicos
 
