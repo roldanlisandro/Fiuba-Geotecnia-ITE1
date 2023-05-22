@@ -65,7 +65,7 @@ Especialización en Ingeniería Geotécnica
 
 ### Unidad 4: Excavaciones
 1. [Índice y bibliografía](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1400%20Excavaciones.pdf)
-2. [Introducción](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1401%20Excavaciones-%20Introduccion.pdf)
+2. [Introducción](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1401%20Excavaciones%20-%20Introduccion.pdf)
 
 ## Trabajos Practicos
 
