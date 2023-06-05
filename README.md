@@ -31,6 +31,9 @@ Especialización en Ingeniería Geotécnica
 
 * [PYPILE](https://www.yongtechnology.com/pypile/#:~:text=PyPile%20is%20a%20lateral%20pile,sections%20and%20custom%20cross%20section.)
 
+* [Solicitud plaxis](https://forms.gle/koKTm1nvTfd2zh696)
+
+
 ## Apuntes
 
 ### Unidad 1: Introducción
