@@ -82,6 +82,7 @@ Especialización en Ingeniería Geotécnica
 2. [Ejercicios Python](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Ejercicios%20Python.ipynb)
 3. [Incertidumbre en la geotécnia](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Incertidumbre%20en%20geotecnia.ipynb)
 4. [Fundaciones profundas - Resistencia por fuste](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Fundaciones_profundas_Resistencia_por_fuste.ipynb)
+5. [Problema intro Plaxis] (https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/1602%20Plaxis.pdf)
 
 
 
