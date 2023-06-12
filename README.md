@@ -83,6 +83,8 @@ Especialización en Ingeniería Geotécnica
 3. [Incertidumbre en la geotécnia](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Incertidumbre%20en%20geotecnia.ipynb)
 4. [Fundaciones profundas - Resistencia por fuste](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Fundaciones_profundas_Resistencia_por_fuste.ipynb)
 5. [Problema intro Plaxis](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/1602%20Plaxis.pdf)
+6. [Plaxis excavación con anclajes (problema)](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Ejemplo%20plaxis%202.pdf)
+7. [Plaxis excavación con anclajes (template)](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/excavacion_anclajes_plaxis.zip)
 
 
 
