@@ -46,7 +46,7 @@ Especialización en Ingeniería Geotécnica
 4. [Repaso de mecánica de suelos](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1104%20Repaso%20mecanica%20de%20suelos.pdf)
 5. [Incertidumbre en problemas de ITE](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1103%20La%20incertidumbre%20en%20los%20problemas%20de%20interaccion.pdf)
 
-### Unidad 2: Fundaciones profundas
+<!--### Unidad 2: Fundaciones profundas
 1. [Introducción](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1201%20Fundaciones%20profundas%20-%20Introducci%C3%B3n.pdf)
 2. [Métodos de instalación](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1202%20Fundaciones%20profundas%20-%20Metodos%20de%20instalacion.pdf)
 3. [Estado límite último](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1203%20Fundaciones%20profundas%20-%20ELU.pdf)
@@ -71,7 +71,7 @@ Especialización en Ingeniería Geotécnica
 ### Unidad 4: Excavaciones
 1. [Índice y bibliografía](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1400%20Excavaciones.pdf)
 2. [Introducción](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1401%20Excavaciones%20-%20Introduccion.pdf)
-3. [Muros colados](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1405%20Muros%20colados.pdf)
+3. [Muros colados](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1405%20Muros%20colados.pdf)-->
 
 ## Trabajos Practicos
 
