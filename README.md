@@ -28,7 +28,7 @@ Especialización en Ingeniería Geotécnica
 * [Clases grabadas C2-2023]() (curso actual)
 
 * [Clases grabadas C1-2023](https://youtube.com/playlist?list=PLQX7AAuxwaHZVdZBnysGMEaogPLU3DojQ)
-* 
+
 * [Foro de discusión](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/discussions)
   
 <!--
