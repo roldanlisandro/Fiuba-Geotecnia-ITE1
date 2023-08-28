@@ -25,7 +25,7 @@ Especialización en Ingeniería Geotécnica
 
 * [Repaso de mecánica de suelos](https://www.youtube.com/playlist?list=PLQX7AAuxwaHb3Mzc5YDTNqYvbgGUQq3yB)
 
-* [Clases grabadas C2-2023]() (curso actual)
+* [Clases grabadas C2-2023](https://www.youtube.com/playlist?list=PLQX7AAuxwaHYiy2lo6onc2hEQLEv6Ou7X)
 
 * [Clases grabadas C1-2023](https://youtube.com/playlist?list=PLQX7AAuxwaHZVdZBnysGMEaogPLU3DojQ)
 
