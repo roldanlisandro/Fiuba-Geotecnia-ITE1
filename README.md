@@ -28,6 +28,8 @@ Especialización en Ingeniería Geotécnica
 * [Clases grabadas C2-2023]() (curso actual)
 
 * [Clases grabadas C1-2023](https://youtube.com/playlist?list=PLQX7AAuxwaHZVdZBnysGMEaogPLU3DojQ)
+
+* [Foro de discusión](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/discussions)
   
 <!--
 * [PYPILE](https://www.yongtechnology.com/pypile/#:~:text=PyPile%20is%20a%20lateral%20pile,sections%20and%20custom%20cross%20section.)
