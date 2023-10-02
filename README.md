@@ -56,14 +56,15 @@ Especialización en Ingeniería Geotécnica
 3. [Estado límite último](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1203%20Fundaciones%20profundas%20-%20ELU.pdf)
 4. [Estado límite de servicio](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1204%20Fundaciones%20profundas%20-%20SLS.pdf)
 5. [Aspectos de diseño](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1207%20Fundaciones%20profundas%20-%20Aspectos%20de%20dise%C3%B1o.pdf)
+6. [Comportamiento lateral - Resistencia](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1212%20Comportamiento%20lateral%20de%20pilotes%20-%20Resistencia%20ultima.pdf)
+7. [Comportamiento lateral - Deformaciones](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1213%20Comportamiento%20lateral%20de%20pilotes%20-%20Deformaciones.pdf)
+8. [Comportamiento lateral - Grupo y Torsión](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1214%20Comportamiento%20lateral%20de%20pilotes%20-%20Grupo%20y%20Torsion.pdf)
 <!--
-6. [Análisis dinámico - ELU](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1208%20Analisis%20dinamico%20pilotes%20-%20ELU.pdf)
-7. [Análisis dinámico - HD](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1209%20Analisis%20dinamico%20pilotes%20-%20HD.pdf)
-8. [Análisis dinámico - PDA](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1210%20Analisis%20dinamico%20pilotes%20-%20PDA.pdf)
-9. [Análisis dinámico - MEF](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1211%20Analisis%20dinamico%20pilotes%20-%20MEF.pdf)
-10. [Comportamiento lateral - Resistencia](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1212%20Comportamiento%20lateral%20de%20pilotes%20-%20Resistencia%20ultima.pdf)
-11. [Comportamiento lateral - Deformaciones](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1213%20Comportamiento%20lateral%20de%20pilotes%20-%20Deformaciones.pdf)
-12. [Comportamiento lateral - Grupo y Torsión](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1214%20Comportamiento%20lateral%20de%20pilotes%20-%20Grupo%20y%20Torsion.pdf)
+9. [Análisis dinámico - ELU](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1208%20Analisis%20dinamico%20pilotes%20-%20ELU.pdf)
+10. [Análisis dinámico - HD](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1209%20Analisis%20dinamico%20pilotes%20-%20HD.pdf)
+11. [Análisis dinámico - PDA](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1210%20Analisis%20dinamico%20pilotes%20-%20PDA.pdf)
+12. [Análisis dinámico - MEF](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1211%20Analisis%20dinamico%20pilotes%20-%20MEF.pdf)
+
 
 ### Unidad 3: Fundaciones superficiales
 1. [Índice y bibliografía](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1300%20Fundaciones%20superficiales.pdf)
