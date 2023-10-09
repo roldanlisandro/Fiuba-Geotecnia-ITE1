@@ -58,12 +58,11 @@ Especialización en Ingeniería Geotécnica
 6. [Comportamiento lateral - Resistencia](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1212%20Comportamiento%20lateral%20de%20pilotes%20-%20Resistencia%20ultima.pdf)
 7. [Comportamiento lateral - Deformaciones](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1213%20Comportamiento%20lateral%20de%20pilotes%20-%20Deformaciones.pdf)
 8. [Comportamiento lateral - Grupo y Torsión](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1214%20Comportamiento%20lateral%20de%20pilotes%20-%20Grupo%20y%20Torsion.pdf)
-<!--
 9. [Análisis dinámico - ELU](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1208%20Analisis%20dinamico%20pilotes%20-%20ELU.pdf)
 10. [Análisis dinámico - HD](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1209%20Analisis%20dinamico%20pilotes%20-%20HD.pdf)
 11. [Análisis dinámico - PDA](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1210%20Analisis%20dinamico%20pilotes%20-%20PDA.pdf)
 12. [Análisis dinámico - MEF](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1211%20Analisis%20dinamico%20pilotes%20-%20MEF.pdf)
-
+<!--
 
 ### Unidad 3: Fundaciones superficiales
 1. [Índice y bibliografía](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1300%20Fundaciones%20superficiales.pdf)
@@ -81,10 +80,10 @@ Especialización en Ingeniería Geotécnica
 ## Trabajos Practicos
 1. [TP1 - Introducción a Python](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP1%20-%20Intro%20a%20Python.ipynb)
 2. [TP2 - Capacidad de carga en pilotes](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP2%20-%20Capacidad%20de%20carga%20en%20pilotes.ipynb)
+3. [TP3 - Estado de servicio en pilotes](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP3%20-%20SLS%20-%20Pilotes.ipynb)
 <!--
-4. [TP3 - Estado de servicio en pilotes](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP3%20-%20SLS%20-%20Pilotes.ipynb)
-5. [TP4 - Fundaciones superficiales](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP4%20-%20Fundaciones%20superficiales.ipynb)
-6. [TP5 - Excavaciones](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP5%20-%20Excavaciones.ipynb)
+6. [TP4 - Fundaciones superficiales](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP4%20-%20Fundaciones%20superficiales.ipynb)
+7. [TP5 - Excavaciones](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP5%20-%20Excavaciones.ipynb)
 -->
 
 ## Auxiliares
