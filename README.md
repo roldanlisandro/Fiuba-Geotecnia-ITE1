@@ -62,7 +62,7 @@ Especialización en Ingeniería Geotécnica
 10. [Análisis dinámico - HD](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1209%20Analisis%20dinamico%20pilotes%20-%20HD.pdf)
 11. [Análisis dinámico - PDA](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1210%20Analisis%20dinamico%20pilotes%20-%20PDA.pdf)
 12. [Análisis dinámico - MEF](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1211%20Analisis%20dinamico%20pilotes%20-%20MEF.pdf)
-<!--
+
 
 ### Unidad 3: Fundaciones superficiales
 1. [Índice y bibliografía](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1300%20Fundaciones%20superficiales.pdf)
@@ -71,7 +71,7 @@ Especialización en Ingeniería Geotécnica
 4. [Estado límite de servicio](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1303%20Fundaciones%20superficiales%20-%20SLS.pdf)
 5. [Consideraciones para el diseño estructural](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1304%20Fundaciones%20superficiales%20-%20Consideraciones%20para%20el%20diseno%20estructural.pdf)
 6. [Fundaciones apoyadas en pilotes](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1305%20Fundaciones%20superficiales%20-%20Fundaciones%20apoyadas%20en%20pilotes.pdf)
-
+<!--
 ### Unidad 4: Excavaciones
 1. [Índice y bibliografía](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1400%20Excavaciones.pdf)
 2. [Introducción](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1401%20Excavaciones%20-%20Introduccion.pdf)
