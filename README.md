@@ -75,8 +75,8 @@ Especialización en Ingeniería Geotécnica
 ### Unidad 4: Excavaciones
 1. [Índice y bibliografía](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1400%20Excavaciones.pdf)
 2. [Introducción](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1401%20Excavaciones%20-%20Introduccion.pdf)
-3. [Muros colados](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1405%20Muros%20colados.pdf)-->
-<!--
+3. [Muros colados](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1405%20Muros%20colados.pdf)
+
 ## Trabajos Practicos
 1. [TP1 - Introducción a Python](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP1%20-%20Intro%20a%20Python.ipynb)
 2. [TP2 - Capacidad de carga en pilotes](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP2%20-%20Capacidad%20de%20carga%20en%20pilotes.ipynb)
