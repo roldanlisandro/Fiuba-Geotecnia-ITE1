@@ -71,19 +71,19 @@ Especialización en Ingeniería Geotécnica
 4. [Estado límite de servicio](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1303%20Fundaciones%20superficiales%20-%20SLS.pdf)
 5. [Consideraciones para el diseño estructural](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1304%20Fundaciones%20superficiales%20-%20Consideraciones%20para%20el%20diseno%20estructural.pdf)
 6. [Fundaciones apoyadas en pilotes](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1305%20Fundaciones%20superficiales%20-%20Fundaciones%20apoyadas%20en%20pilotes.pdf)
-<!--
+
 ### Unidad 4: Excavaciones
 1. [Índice y bibliografía](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1400%20Excavaciones.pdf)
 2. [Introducción](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1401%20Excavaciones%20-%20Introduccion.pdf)
 3. [Muros colados](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Apuntes/1405%20Muros%20colados.pdf)-->
-
+<!--
 ## Trabajos Practicos
 1. [TP1 - Introducción a Python](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP1%20-%20Intro%20a%20Python.ipynb)
 2. [TP2 - Capacidad de carga en pilotes](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP2%20-%20Capacidad%20de%20carga%20en%20pilotes.ipynb)
 3. [TP3 - Estado de servicio en pilotes](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP3%20-%20SLS%20-%20Pilotes.ipynb)
+4. [TP4 - Fundaciones superficiales](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP4%20-%20Fundaciones%20superficiales.ipynb)
 <!--
-6. [TP4 - Fundaciones superficiales](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP4%20-%20Fundaciones%20superficiales.ipynb)
-7. [TP5 - Excavaciones](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP5%20-%20Excavaciones.ipynb)
+5. [TP5 - Excavaciones](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Trabajos%20Practicos/TP5%20-%20Excavaciones.ipynb)
 -->
 
 ## Auxiliares
