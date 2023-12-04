@@ -35,7 +35,7 @@ Especialización en Ingeniería Geotécnica
 
 * [Solicitud plaxis](https://forms.gle/koKTm1nvTfd2zh696)
   
-* [Encuesta de cierre](https://forms.gle/YXEV5G3dun1WuEMp9)
+* [Encuesta de cierre](https://forms.gle/icZegonP8XdwhKgXA)
 
 
 
