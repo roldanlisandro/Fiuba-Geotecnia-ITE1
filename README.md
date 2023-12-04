@@ -34,9 +34,9 @@ Especialización en Ingeniería Geotécnica
 * [PYPILE](https://www.yongtechnology.com/pypile/#:~:text=PyPile%20is%20a%20lateral%20pile,sections%20and%20custom%20cross%20section.)
 
 * [Solicitud plaxis](https://forms.gle/koKTm1nvTfd2zh696)
-<!--
+  
 * [Encuesta de cierre](https://forms.gle/YXEV5G3dun1WuEMp9)
--->
+
 
 
 ## Apuntes
@@ -91,12 +91,11 @@ Especialización en Ingeniería Geotécnica
 3. [Incertidumbre en la geotécnia](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Incertidumbre%20en%20geotecnia.ipynb)
 4. [Problema intro Plaxis](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/1602%20Plaxis.pdf)
 5. [Plaxis, archivo 27/11](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/excavacion1_c2_2023.p2dx.2023-11-27_224654.7z)
+6. [Plaxis excavación con anclajes (problema)](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Ejemplo%20plaxis%202.pdf)
+7. [Plaxis excavación con anclajes (template)](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/excavacion_anclajes_plaxis.zip)
    
 <!--
 4. [Fundaciones profundas - Resistencia por fuste](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Fundaciones_profundas_Resistencia_por_fuste.ipynb)
-
-6. [Plaxis excavación con anclajes (problema)](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/Ejemplo%20plaxis%202.pdf)
-7. [Plaxis excavación con anclajes (template)](https://github.com/roldanlisandro/Fiuba-Geotecnia-ITE1/blob/main/Auxiliares/excavacion_anclajes_plaxis.zip)
 -->
 
 
